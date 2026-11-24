@@ -15,6 +15,7 @@
 
 ### Added
 
+- 单镜表演返修：分镜可标出台词或画面触发动作的瞬间，图片提示词支持同机位前后姿态审阅，动态稿与复审按镜号跟踪到实际投喂正文和可见画面。
 - 宿主适配（Google Antigravity）：新增 `.agents/skills.json` 供 Antigravity（CLI `agy`、IDE、App）在仓库工作区内自动发现全部 12 个公共技能，在中英文 README、贡献指南、设计文档与创作指南中补齐 Antigravity 全局（`~/.gemini/config/skills/`）与项目级（`.agents/skills/`）安装方式及 `/short-drama*` 调用写法，并补充安装布局与配置发现回归测试。
 
 ## [0.13.0] - 2026-11-22
